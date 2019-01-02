@@ -9,5 +9,4 @@ NOTE: Splunk Add-on for Facebook ThreatExchange requires Splunk Enterprise Secur
 Version 1.0.0
 April 1, 2016
 
-Splunk Add-On for Facebook ThreatExchange 1.0.0 Copyright (C) 2016 Splunk Inc. All rights reserved.
-
+Splunk Add-On for Facebook ThreatExchange 1.0.0
