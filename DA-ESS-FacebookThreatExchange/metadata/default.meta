@@ -1,0 +1,2 @@
+[collections/fb-tx-collection]
+access = read : [ * ], write : [ admin ]
